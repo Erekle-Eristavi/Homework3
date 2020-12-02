@@ -1,0 +1,103 @@
+body{
+	height: 1810px;
+	width: 1366px;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+header{
+	display: inline-block;
+	vertical-align: middle;
+	padding-bottom: 40px;
+}
+span{
+	color: red;
+}
+li{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'BPG Nino Mtavruli';
+	font-weight: bold;
+	padding-right: 22px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	padding-right: 50px;
+}
+.square{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'BPG Nino Mtavruli';
+	background-color: #3D58A6;
+	padding: 0px;
+	font-size: 48px;
+	width: 56px;
+	height: 56px;
+	padding-top: 10px;
+	padding-left: 4px;
+	color: white;
+	text-align: center;
+}
+.date-month{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: 'BPG Nino Mtavruli';
+	padding-left: 22px;
+	color: #3D58A6;
+}
+.date{
+	display: inline-block;
+	vertical-align: middle;
+	height: 56px;
+}
+.section-date{
+	padding-bottom: 57px;
+}
+.main-block-image{
+	display: inline-block;
+	vertical-align: middle;
+	width: 120px
+}
+.main-block-description{
+	display: inline-block;
+	vertical-align: middle;
+	width: 120px
+}
+.regular-text{
+	font-family: 'Roboto';
+	font-size: 35px
+}
+.article-title{
+	font-family: 'BPG Nino Mtavruli';
+	padding-bottom: 20px;
+}
+.article-text{
+	font-family: 'BPG Ingiri Arial';
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 40px;
+    font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	width: 930px;
+}
+p{
+	padding-bottom: 22px;
+}
+.article{
+	padding-bottom: 35px;
+	width: 1240px;
+
+}
+.article-image-frame{
+	display: inline-block;
+	vertical-align: middle;
+	width: 270px;
+}
+.article-image{
+	display: inline-block;
+	width: 270px;
+}
+.social-line{
+	padding-right: 35px;
+	padding-left: 35px;
+}
